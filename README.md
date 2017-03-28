@@ -11,6 +11,6 @@ npm i -g nodemon
 ## App
 
 * npm install // pour le server express
-* cd client && npm install && npm run build // pour l'app client react
+* cd client && npm install && npm run build // pour l'application client React
 * npm start // démarre le server express en port 8080 et le server de dev react en port 3000
 
